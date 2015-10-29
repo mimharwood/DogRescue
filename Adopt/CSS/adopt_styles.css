@@ -16,6 +16,26 @@ body{
 		height:73px;
 		background-color:rgb(32, 33, 98);
 	}
+	
+		a{
+		text-decoration: none;
+		color:white;
+	}
+
+	a:hover{
+		text-decoration: none;
+		color:#fc8359;
+	}
+
+	.adopt a{
+		text-decoration: none;
+		color:#fc8359;
+	}
+
+	.adopt a:hover{
+		text-decoration: none;
+		color:white;
+	}
 
 	ul{
 		padding-right: 25px;
