@@ -11,7 +11,28 @@
 	#wrapper {
 		min-height:100%;
 		position:relative;
-    }
+    	}
+    	
+    		a{
+		text-decoration: none;
+		color:white;
+	}
+
+	a:hover{
+		text-decoration: none;
+		color:#fc8359;
+	}
+
+	.adopt a{
+		text-decoration: none;
+		color:#fc8359;
+	}
+
+	.adopt a:hover{
+		text-decoration: none;
+		color:white;
+	}
+
 
 	nav{
 		height:73px;
